@@ -4,6 +4,8 @@
 
 ## This is a simple chess game coded in Python: https://github.com/Smock948/ChessGame
 
+## This is a hash map coded in Python from Data Structures: https://github.com/Smock948/HashMap
+
 <!--
 **Smock948/smock948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
