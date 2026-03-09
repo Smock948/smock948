@@ -2,6 +2,8 @@
 
 ## This is the DDL file for an enrollment database that we created in our DB class: https://github.com/Smock948/EnrollmentSQL.git
 
+## This is a simple chess game coded in Python: https://github.com/Smock948/ChessGame
+
 <!--
 **Smock948/smock948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
