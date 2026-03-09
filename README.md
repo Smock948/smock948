@@ -1,5 +1,7 @@
 ## Hi! My name is Sam, and I'm a student at Oregon State University, and this is my portfolio of work.
 
+## This is the DDL file for an enrollment database that we created in our DB class: https://github.com/Smock948/EnrollmentSQL.git
+
 <!--
 **Smock948/smock948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
